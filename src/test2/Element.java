@@ -4,6 +4,7 @@ public class Element {
 	private int ligne;
 	private int colonne;
 	
+	/*** CONSTRUCTEUR ********/
 	public Element(int ligne, int colonne)
 	{
 		this.ligne = ligne;
